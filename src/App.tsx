@@ -1,3 +1,4 @@
+// components
 import Cards from "./components/Cards";
 import ClientTestimonials from "./components/ClientTestimonials";
 import Footer from "./components/Footer";
